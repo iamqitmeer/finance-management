@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Financial Management Application**
 
 A sophisticated and user-friendly web application designed to simplify personal finance management. Built using **React.js**, **Redux**, **CSS**, and **Firebase**, this app is a testament to my expertise in front-end and back-end development.
@@ -39,6 +38,7 @@ _A clean interface summarizing key financial metrics._
     - [Is this project open-source?](#is-this-project-open-source)
     - [Can I use this application for managing my finances?](#can-i-use-this-application-for-managing-my-finances)
   - [**Contact Information**](#contact-information)
+- [Feel free to explore my other projects and share your feedback!](#feel-free-to-explore-my-other-projects-and-share-your-feedback)
 
 ---
 
@@ -187,5 +187,3 @@ Developed by **Qitmeer Raza**
 
 Feel free to explore my other projects and share your feedback!
 =======
-
->>>>>>> 1b0dcfae24d42537f4465d1ae62b8ddababf59b0
