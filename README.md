@@ -1,68 +1,126 @@
-<a name="readme-top"></a>
+# **Financial Management Application**  
+A powerful and intuitive web application for managing personal finances, built using **React.js**, **Redux**, **CSS**, and **Firebase**.  
 
-<br />
-<div align="center">
-  <a href="https://budget-buddy-finance.netlify.app" target='_blank'>
-    <img src="./src/assets/main-screen.png" alt="main-page-screen" width='900'>
-<h3 align="center">Financial Management Application</h3>
-  <p align="center">
-A web application for managing your finance built using React, CSS, Redux, and Firebase.
-    <br />
-    <a href="https://github.com/LychakVlad/financial-management-app"><strong>Explore the code »</strong></a>
-    <br />
-    <br />
-    <a href="https://budget-buddy-finance.netlify.app">View Demo</a>
-  </p>
-</div>
-<!-- ABOUT THE PROJECT -->
+---
 
-## About The Project
+## **Table of Contents**  
+1. [About The Project](#about-the-project)  
+2. [Features](#features)  
+   - Expense Tracker  
+   - Income Tracker  
+   - Tax Calculation  
+   - Budget Planner  
+   - Secure Authentication  
+3. [Built With](#built-with)  
+4. [Getting Started](#getting-started)  
+   - Prerequisites  
+   - Installation  
+5. [Usage](#usage)  
+6. [Screenshots](#screenshots)  
+7. [Future Enhancements](#future-enhancements)  
+8. [Contact](#contact)  
 
-This web-based financial management application was created to address a personal challenge I faced while working as a server. I struggled with accurately tracking my income and saving enough to cover my tax obligations. To solve this problem, I initially developed a tax calculator using Virginia tax rates. Building upon that, I added an income tracker to monitor my earnings, an expense tracker to keep track of my spending, and a budget planner to plan my finances effectively. I am continuously working on developing and improving this product to provide comprehensive financial management solutions.
+---
 
-### - Testing Coverage
+## **About The Project**  
+The **Financial Management Application** was developed as part of my **portfolio** to showcase my skills in creating robust and user-friendly web applications. The app was inspired by the real-world challenge of managing finances efficiently. It combines essential financial tools like expense tracking, income tracking, tax calculation, and budget planning into one seamless solution.  
 
-- **End-to-End (E2E) Tests:** Major features like expense tracking, income tracking, tax calculation, and budget planning are thoroughly tested to ensure seamless user experiences.
+This application is not open-source and is solely for demonstration purposes to highlight my technical expertise.  
 
-- **Unit Tests:** Approximately 50% of the codebase is covered by unit tests, validating individual components and functions for accuracy.
+---
 
-### - Expense Tracker
+## **Features**  
 
-With the expense tracking feature, users can easily monitor and categorize their expenses. They can input their expenditures, assign them to relevant categories (e.g., housing, transportation, groceries), and track their spending over time. The application provides visual representation such as chart to help users understand their spending patterns and make adjustments to their budgets if needed.
+### **Expense Tracker**  
+- Effortlessly log and categorize expenses by type (e.g., groceries, transportation, entertainment).  
+- Monitor spending trends with dynamic and interactive charts.  
+- Analyze spending patterns over time to adjust budgets effectively.  
 
-### - Income Tracker
+### **Income Tracker**  
+- Track income from multiple sources with details like amount, date, and tax status.  
+- View a consolidated summary of earnings to understand income streams better.  
 
-The Income Tracker feature allows users to conveniently track their various sources of income. Users can input the amount, date, and indicate whether the income is taxable or not.
+### **Tax Calculation**  
+- Simplify tax planning by inputting income, deductions, and filing status.  
+- Utilize updated tax regulations to calculate estimated tax liabilities.  
+- Make informed financial decisions with clear tax breakdowns.  
 
-### - Tax Calculation
+### **Budget Planner**  
+- Organize finances using the 50/30/20 budgeting method for needs, wants, and savings.  
+- Compare planned and actual spending to achieve financial goals.  
+- Gain actionable insights to maintain a balanced budget.  
 
-The financial management application simplifies tax calculation. Users can input their income, deductions, and filing status in a user-friendly interface. Utilizing up-to-date tax regulations and algorithms, the application quickly estimates tax liability. Users can make informed financial decisions based on the calculated tax obligations.
+### **Secure Authentication**  
+- Provides robust user authentication to protect sensitive data.  
+- Allows users to securely log in and manage their financial information.  
 
-### - Budget Planner
+---
 
-The budget planner feature allows users to enter their desired amounts for needs, wants, and savings categories. It enables users to compare their allocations with the 50/30/20 system based on their income after taxes. This helps users effectively manage their finances and maintain a balanced budget.
+## **Built With**  
+- **React.js**: A powerful JavaScript library for building dynamic user interfaces.  
+- **Redux**: Ensures efficient state management and predictable behavior.  
+- **CSS**: Enables responsive and visually appealing design.  
+- **Firebase**: Handles authentication and database functionalities securely.  
 
-### - Authentication
+---
 
-To ensure data privacy and security, the financial management application incorporates user authentication. Users can create personal accounts, log in securely, and access their financial information. The authentication system safeguards sensitive financial data and prevents unauthorized access.
+## **Getting Started**  
 
-### Built With
+### **Prerequisites**  
+Before running the application, ensure you have the following installed:  
+- Node.js (v16 or higher)  
+- npm (Node Package Manager)  
 
-- React js
-- Css
-- Redux
-- Firebase
+### **Installation**  
 
-## Contact
+1. **Clone the Repository**  
+   ```bash  
+   git clone https://github.com/iamqitmeer/finance-management.git  
+   cd finance-management  
+   ```  
 
-Vladislav Lychak - [@LinkedIn](https://www.linkedin.com/in/vladislav-lychak/) - lycakvladislav@gmail.com
+2. **Install Dependencies**  
+   ```bash  
+   npm install  
+   ```  
 
-Project Link: [https://budget-buddy-finance.netlify.app](https://budget-buddy-finance.netlify.app)
+3. **Run the Application**  
+   ```bash  
+   npm start  
+   ```  
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+4. Open the application in your browser at `http://localhost:3000`.  
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+---
 
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
+## **Usage**  
+- Use the app to explore features like expense tracking, income tracking, tax calculation, and budget planning.  
+- This project is a portfolio piece and is not intended for production or public use.  
+
+---
+
+## **Screenshots**  
+### Dashboard Overview  
+![Dashboard](https://via.placeholder.com/800x400.png?text=Dashboard+Screenshot)  
+*A clean and intuitive dashboard to view financial insights at a glance.*  
+
+### Expense Tracker  
+![Expense Tracker](https://via.placeholder.com/800x400.png?text=Expense+Tracker+Screenshot)  
+*Log and categorize expenses easily.*  
+
+---
+
+## **Future Enhancements**  
+- Add support for multiple currencies to cater to a global audience.  
+- Include a savings tracker to help users plan and achieve savings goals.  
+- Implement AI-based financial insights for better decision-making.  
+- Expand reporting capabilities with downloadable summaries and charts.  
+
+---
+
+## **Contact**  
+Created by **Qitmeer Raza**  
+- **GitHub**: [iamqitmeer](https://github.com/iamqitmeer)  
+- **Portfolio**: Coming Soon  
+
+Feel free to explore my other projects on GitHub and share your feedback!  
