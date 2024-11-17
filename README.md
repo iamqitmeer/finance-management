@@ -13,35 +13,6 @@ _A clean interface summarizing key financial metrics._
 
 ---
 
-## **Table of Contents**
-
-- [**Financial Management Application**](#financial-management-application)
-    - [Dashboard](#dashboard)
-  - [**Table of Contents**](#table-of-contents)
-  - [**About The Project**](#about-the-project)
-  - [**Key Features**](#key-features)
-    - [Expense Tracker](#expense-tracker)
-    - [Income Tracker](#income-tracker)
-    - [Tax Calculator](#tax-calculator)
-    - [Budget Planner](#budget-planner)
-    - [Secure Authentication](#secure-authentication)
-  - [**Technologies Used**](#technologies-used)
-  - [**Setup Instructions**](#setup-instructions)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [**Usage Guide**](#usage-guide)
-  - [**Testing and Coverage**](#testing-and-coverage)
-    - [End-to-End Testing (E2E)](#end-to-end-testing-e2e)
-    - [Unit Testing](#unit-testing)
-  - [**Planned Improvements**](#planned-improvements)
-  - [**Frequently Asked Questions**](#frequently-asked-questions)
-    - [Is this project open-source?](#is-this-project-open-source)
-    - [Can I use this application for managing my finances?](#can-i-use-this-application-for-managing-my-finances)
-  - [**Contact Information**](#contact-information)
-- [Feel free to explore my other projects and share your feedback!](#feel-free-to-explore-my-other-projects-and-share-your-feedback)
-
----
-
 ## **About The Project**
 
 Managing personal finances can often feel overwhelming. Whether it's tracking expenses, managing income, or planning for taxes, these tasks demand precision and time. This **Financial Management Application** was created as a comprehensive solution to these challenges.
@@ -140,20 +111,6 @@ Before running the application, ensure the following are installed:
 3. **Track Income**: Record your earnings and analyze trends.
 4. **Calculate Taxes**: Use the tax calculator to estimate your tax obligations.
 5. **Plan Budgets**: Create and monitor personalized budgets to stay on track.
-
----
-
-## **Testing and Coverage**
-
-### End-to-End Testing (E2E)
-
-- All major features, including expense tracking, income tracking, and tax calculations, are rigorously tested to ensure flawless performance.
-
-### Unit Testing
-
-- Approximately 50% of the codebase is covered with unit tests to validate individual components and functions.
-
----
 
 ## **Planned Improvements**
 
